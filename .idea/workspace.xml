@@ -5,121 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd45729-0d76-429e-8c9d-80ac1659481d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/collectivedigital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ExtraBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Hairline.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-SemiBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/Montserrat-UltraLight.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/montserrat/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplay-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplay-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplay-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplaybold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplaybold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/playfair-display/playfairdisplaybold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/testimonials_slider_header/bg_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/testimonials_slider_item/mack_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/big_word--elegant--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/big_word--elegant--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/big_word--unique--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/big_word--unique--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/emoji_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/itmeo_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/logo-itmeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/scroll_down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/etc/star-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--arrow--right--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--arrow--right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--cross--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--cross--red.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--cross--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--question-mark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--quote--down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--quote--up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--slider-arrow--white--left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--slider-arrow--white--right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--stars-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--stars-3of4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--stars-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--stars-4of5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--stars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i--tick--green.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-behance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-code--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-diamond--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-info.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-mail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-media--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-mobile--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-play--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-star--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-tweaks--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/i-zoom--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--behance--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--behance--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--dribbble--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--dribbble--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--facebook--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--facebook--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--g_plus--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--g_plus--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--linkedin--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--linkedin--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--pinterest--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--pinterest--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--tumblr--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--tumblr--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--twitter--black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/social_buttons/i--twitter--white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/agency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/architect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/artist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/designer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/fashion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/furniture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/jewerly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/audience/photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/04 architecture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/04architecture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/04architecture2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/agency.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/architecture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/architecture2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/freelancer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/graphic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/main_slider_prod/photographer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/mockups/center.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/mockups/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/mockups/left2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/mockups/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/02-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/02-mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/02_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/02_mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/03_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/03_mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/04_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/04_mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/06_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/06_mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/07_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pictures/testimonials/07_mack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opengraph_1200_630.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="65" lean-forward="true" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+            <state relative-caret-position="251">
+              <caret line="21" column="106" lean-forward="true" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
               <folding>
                 <element signature="e#32445#40853#0" />
                 <element signature="e#40743#42461#0" />
@@ -182,15 +68,6 @@
               <item name="collectivedigital" type="b2602c69:ProjectViewProjectNode" />
               <item name="collectivedigital" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="collectivedigital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="collectivedigital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
-              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -224,12 +101,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525250031536</updated>
-      <workItem from="1525250035083" duration="1663000" />
+      <workItem from="1525250035083" duration="3211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1663000" />
+    <option name="totallyTimeSpent" value="3211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -264,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="65" lean-forward="true" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+        <state relative-caret-position="251">
+          <caret line="21" column="106" lean-forward="true" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
           <folding>
             <element signature="e#32445#40853#0" />
             <element signature="e#40743#42461#0" />
